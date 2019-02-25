@@ -1,0 +1,119 @@
+item {
+  id: 1
+  name: 'apple'
+}
+
+item {
+  id: 2
+  name: 'banana'
+}
+
+item {
+  id: 3
+  name: 'bread'
+}
+
+item {
+  id: 4
+  name: 'bun'
+}
+
+item {
+  id: 5
+  name: 'doughnut'
+}
+
+item {
+  id: 6
+  name: 'Soft-boiled eggs'
+}
+
+item {
+  id: 7
+  name: 'fired_dough_twist'
+}
+
+item {
+  id: 8
+  name: 'grape'
+}
+
+item {
+  id: 9
+  name: 'lemon'
+}
+
+item {
+  id: 10
+  name: 'litchi'
+}
+
+item {
+  id: 11
+  name: 'diningtable'
+}
+
+item {
+  id: 12
+  name: 'mango'
+}
+
+item {
+  id: 13
+  name: 'pear'
+}
+
+item {
+  id: 14
+  name: 'mooncake'
+}
+
+item {
+  id: 15
+  name: 'orange'
+}
+
+item {
+  id: 16
+  name: 'peach'
+}
+
+item {
+  id: 17
+  name: 'plum'
+}
+
+item {
+  id: 18
+  name: 'qiwi'
+}
+
+item {
+  id: 19
+  name: 'sachima'
+}
+
+item {
+  id: 20
+  name: 'tomato'
+}
+
+item {
+  id: 21
+  name: 'coin'
+}
+
+item {
+  id: 22
+  name: 'rice'
+}
+
+item {
+  id: 23
+  name: 'fired egg'
+}
+
+item {
+  id: 24
+  name: 'salmon'
+}
